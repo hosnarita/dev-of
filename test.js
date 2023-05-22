@@ -6,3 +6,6 @@ console.print(a);
 
 int aa = 11111111;
 console.print(aa);
+
+int aaa = 444;
+console.print(aaa);
